@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.au.example</groupId>
-    <artifactId>springboot3</artifactId>
+    <artifactId>server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot3</name>
-    <description>springboot3</description>
+    <name>server</name>
+    <description>server</description>
     <properties>
         <java.version>19</java.version>
     </properties>
